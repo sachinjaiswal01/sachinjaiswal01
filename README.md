@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering DSA<br><br>🌱 I’m currently learning DataScience<br><br>💬 Ask me about DSA,Frontend Development,python,dataScience
+🔭 I'm currently dedicated to deepening my understanding of Data Structures and Algorithms (DSA).<br><br>🌱 I’m currently learning DataScience<br><br>💬 Ask me about DSA,Frontend Development,python,dataScience
 
 
 ## 🌐 Socials:
